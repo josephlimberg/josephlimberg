@@ -20,18 +20,6 @@ Soy un **Ingeniero de Datos** con experiencia en procesamiento de datos, desarro
 
 ---
 
-<h3 align="left">📬 Conecta conmigo:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tuemail@ejemplo.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
 <h3 align="left">🛠️ Lenguajes y Herramientas:</h3>
 <p align="left">
   <!-- Lenguajes de programación -->
@@ -74,7 +62,7 @@ Soy un **Ingeniero de Datos** con experiencia en procesamiento de datos, desarro
 📈 **Estadísticas de GitHub**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=josephlimberg&show_icons=true&theme=default"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephlimberg&layout=compact"/>
 </p>
