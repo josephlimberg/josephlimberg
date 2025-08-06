@@ -58,11 +58,3 @@ Soy un **Ingeniero de Datos** con experiencia en procesamiento de datos, desarro
 
 
 ---
-
-📈 **Estadísticas de GitHub**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josephlimberg&show_icons=true&theme=default"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephlimberg&layout=compact"/>
-</p>
