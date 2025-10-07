@@ -1,24 +1,11 @@
 <h1 align="center">👋 Hola, soy Joseph Limberg</h1>
-<h3 align="center">Ingeniero de Datos | Apasionado por los datos, la nube y la automatización</h3>
+<h3 align="center">Engineer Cloud</h3>
 
 ---
 
-🌐 **Acerca de mí**
-
-Soy un **Ingeniero de Datos** con experiencia en procesamiento de datos, desarrollo de pipelines ETL, análisis en la nube y diseño de soluciones escalables. Me apasiona convertir datos en conocimiento y automatizar procesos para mejorar la toma de decisiones.
-
----
-
-💼 **Experiencia con tecnologías:**
-
-- 📊 Procesamiento de datos: Python, Scala, SQL
 - ☁️ Cloud: Google Cloud Platform (BigQuery, Dataflow), Docker
 - 🛠️ DevOps/DataOps: Bash, Linux, Docker
 - 🧠 Bases de datos: MongoDB, SQL Server
-- 🔄 ETL/ELT: Apache Spark, Airflow
-- 📈 BI y Análisis: Pandas, NumPy, Jupyter
-
----
 
 <h3 align="left">🛠️ Lenguajes y Herramientas:</h3>
 <p align="left">
