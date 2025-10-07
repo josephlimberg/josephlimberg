@@ -3,7 +3,7 @@
 
 ---
 
-- ☁️ Cloud: Google Cloud Platform (BigQuery, Dataflow), Docker
+- ☁️ Cloud: Google Cloud Platform, Microsoft Azure
 - 🛠️ DevOps/DataOps: Bash, Linux, Docker
 - 🧠 Bases de datos: MongoDB, SQL Server
 
