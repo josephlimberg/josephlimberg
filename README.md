@@ -1,11 +1,4 @@
 <h1 align="center">👋 Hola, soy Joseph Limberg</h1>
-<h3 align="center">Engineer Cloud</h3>
-
----
-
-- ☁️ Cloud: Google Cloud Platform, Microsoft Azure
-- 🛠️ DevOps/DataOps: Bash, Linux, Docker
-- 🧠 Bases de datos: MongoDB, SQL Server
 
 <h3 align="left">🛠️ Lenguajes y Herramientas:</h3>
 <p align="left">
